@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Edgeware DAO](https://Edgeware.io)
 
-- 📫 How to reach me **bharathcoorg@dfinnwallet.app**
+- 📫 How to reach me **bharath@edgeware.community**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
