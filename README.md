@@ -11,7 +11,7 @@
 
 ### 🚀 About Me
 
-- 🔭 Currently working on **Edgeware DAO**
+- 🔭 Currently working on **Interlayer, Liteverse**
 - 🌱 Focused on **Blockchain, Web3 & Distributed Systems**
 - 💬 Open to collaborations in Web3 & open-source
 
