@@ -87,33 +87,27 @@ I build and maintain projects across different layers of the software stack.
 
 ---
 
+
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <a href="https://github.com/bharathcoorg">
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=bharathcoorg&show_icons=true&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=github&hide_border=true&theme=tokyonight"
-      height="190"
-      alt="Bharath's GitHub statistics"
-    />
-  </a>
-
-  <a href="https://github.com/bharathcoorg">
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharathcoorg&layout=compact&langs_count=10&hide_border=true&theme=tokyonight"
-      height="190"
-      alt="Bharath's most used languages"
-    />
-  </a>
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=bharathcoorg&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&theme=tokyonight"
+    height="190"
+    alt="Bharath's GitHub statistics"
+  />
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=bharathcoorg&layout=compact&langs_count=10&hide_border=true&theme=tokyonight"
+    height="190"
+    alt="Bharath's most used languages"
+  />
 </p>
 
 <p align="center">
-  <a href="https://github.com/bharathcoorg">
-    <img
-      src="https://streak-stats.demolab.com/?user=bharathcoorg&theme=tokyonight&hide_border=true"
-      alt="Bharath's GitHub contribution streak"
-    />
-  </a>
+  <img
+    src="https://streak-stats.demolab.com/?user=bharathcoorg&theme=tokyonight&hide_border=true"
+    alt="Bharath's GitHub contribution streak"
+  />
 </p>
 
 <p align="center">
