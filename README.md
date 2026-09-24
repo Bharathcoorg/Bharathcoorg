@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bharath</h1>
 
-<p align="center">
-  <strong>Independent Builder · Blockchain · Rust · Open Source</strong>
-</p>
+<h3 align="center">Independent Builder · Blockchain · Rust · Open Source</h3>
 
 <p align="center">
-  Building open-source infrastructure and experimenting with new ideas in decentralized systems, developer tooling and computing.
+  Building open-source infrastructure and experimenting with decentralized systems, developer tooling and new computing architectures.
 </p>
 
 <p align="center">
@@ -18,74 +16,111 @@
 
 ## 🚀 What I'm Building
 
-### InterLayer
+### ⛓️ InterLayer
+
 A Substrate-based multi-VM blockchain exploring a unified execution environment for different blockchain ecosystems.
 
 **EVM · SVM · Move VM · PolkaVM · CosmWasm**
 
 🌐 [interlayer.one](https://interlayer.one)
 
-### LiteVerse
-Lightweight infrastructure for running and accessing distributed nodes across browser, CLI, mobile and desktop environments.
+---
+
+### ⚡ LiteVerse
+
+Lightweight distributed infrastructure designed to make node access and operation possible across different environments.
+
+**Browser · CLI · Mobile · Desktop**
 
 🌐 [liteverse.network](https://liteverse.network)
 
-### Interclaw
-An experimental platform exploring AI agents, Web3 infrastructure and decentralized services.
+---
+
+### 🦞 Interclaw
+
+An experimental platform exploring the intersection of **AI agents, Web3 and decentralized infrastructure**.
 
 🌐 [interclaw.space](https://interclaw.space)
 
-### Inter-OS
-An open-source exploration of a Rust-based mobile operating system with a focus on lightweight native computing and a new approach to smartphone UX.
+---
+
+### 🦀 Inter-OS
+
+An open-source exploration of a **Rust-based mobile operating system**, focused on lightweight native computing, system-level development and a new approach to smartphone UX.
 
 ---
 
 ## 🧩 Open Source
 
-I build and maintain projects across different layers of the stack, from blockchain runtimes and distributed infrastructure to developer tools and system software.
+I build and maintain projects across different layers of the software stack.
 
-Some current projects and experiments:
-
-- **InterLayer** — Blockchain infrastructure
-- **LiteVerse** — Lightweight node infrastructure
-- **Interclaw** — AI agent infrastructure
-- **InterMCP** — MCP tooling
-- **InterENV** — Developer tooling
-- **Inter-OS** — Rust-based OS research
+| Project | Focus |
+|---|---|
+| **InterLayer** | Multi-VM blockchain infrastructure |
+| **LiteVerse** | Lightweight node infrastructure |
+| **Interclaw** | AI agent infrastructure |
+| **InterMCP** | MCP tooling |
+| **InterENV** | Developer tooling |
+| **Inter-OS** | Rust-based OS research |
 
 > Some projects are experimental and evolve as the underlying ideas develop.
 
 ---
 
-## 🛠️ Stack
+## 🛠️ Technology
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=rust,solidity,go,python,nodejs,typescript,react,nextjs,linux,docker,kubernetes,postgres,cloudflare,git,github" />
-
+  <img src="https://skillicons.dev/icons?i=rust,solidity,go,python,nodejs,typescript,react,nextjs,linux,docker,kubernetes,postgres,cloudflare,git,github" />
 </p>
 
 ---
 
 ## 🔬 Areas of Interest
 
-```text
-Distributed Systems
-Blockchain Architecture
-Rust & Systems Programming
-Open Source Software
-AI Agent Infrastructure
-Developer Tools
-Operating System Design
-```
+<p align="center">
+
+`Distributed Systems` · `Blockchain Architecture` · `Rust` · `Systems Programming`
+
+`Open Source` · `AI Agents` · `Developer Infrastructure` · `Operating Systems`
+
+</p>
 
 ---
 
-## 📊 GitHub
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bharathcoorg&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharathcoorg&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <a href="https://github.com/bharathcoorg">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=bharathcoorg&show_icons=true&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=github&hide_border=true&theme=tokyonight"
+      height="190"
+      alt="Bharath's GitHub statistics"
+    />
+  </a>
+
+  <a href="https://github.com/bharathcoorg">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharathcoorg&layout=compact&langs_count=10&hide_border=true&theme=tokyonight"
+      height="190"
+      alt="Bharath's most used languages"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/bharathcoorg">
+    <img
+      src="https://streak-stats.demolab.com/?user=bharathcoorg&theme=tokyonight&hide_border=true"
+      alt="Bharath's GitHub contribution streak"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bharathcoorg&theme=tokyonight"
+    alt="Bharath's GitHub contribution activity"
+  />
 </p>
 
 ---
@@ -107,6 +142,12 @@ Operating System Design
   </a>
 </p>
 
+---
+
 <p align="center">
   <i>Build. Experiment. Open source.</i>
+</p>
+
+<p align="center">
+  <sub>Made with curiosity from Coorg, India 🇮🇳</sub>
 </p>
