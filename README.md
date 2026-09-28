@@ -92,11 +92,6 @@ I build and maintain projects across different layers of the software stack.
 
 <p align="center">
   <img
-    src="https://github-stats-extended.vercel.app/api?username=bharathcoorg&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&theme=tokyonight"
-    height="190"
-    alt="Bharath's GitHub statistics"
-  />
-  <img
     src="https://github-stats-extended.vercel.app/api/top-langs/?username=bharathcoorg&layout=compact&langs_count=10&hide_border=true&theme=tokyonight"
     height="190"
     alt="Bharath's most used languages"
@@ -107,13 +102,6 @@ I build and maintain projects across different layers of the software stack.
   <img
     src="https://streak-stats.demolab.com/?user=bharathcoorg&theme=tokyonight&hide_border=true"
     alt="Bharath's GitHub contribution streak"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bharathcoorg&theme=tokyonight"
-    alt="Bharath's GitHub contribution activity"
   />
 </p>
 
